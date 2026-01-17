@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@hono/zod-validator": "^0.7.6",
+    "better-sqlite3": "^12.6.2",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "tsx": "^4.21.0"
+  }
+}
